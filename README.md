@@ -1,4 +1,4 @@
-# Hivemade—A fast frontend exercise
+# Hivemade
 
 A purely front-end prototype used to demo to investors for Hivemade, Inc. in Shenzhen, China.
 
